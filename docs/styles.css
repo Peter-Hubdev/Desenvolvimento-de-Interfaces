@@ -5,7 +5,7 @@
 body {
   margin: 0;
   font-family: Arial, sans-serif;
-  background-color: #640980;
+  background-color: #95cace;
   color: #f2f2f2;
   line-height: 1.6;
 }
@@ -16,7 +16,7 @@ body {
   align-items: center;
   text-align: center;
   padding: 24px 16px;
-  background-color: #5c0d70;
+  background-color: #f59842;
 }
 
 .encima h1 {
@@ -46,11 +46,11 @@ main {
 .Apresenta_1 {
   text-align: center;
   font-style: italic;
-  color: #020202;
+  color: #f7f0f0;
 }
 /*Caixa Texto*/
 .caixa_texto {
-  background-color: #b91010;
+  background-color: #E53935;
   border-radius: 8px;
   padding: 16px 24px;
   margin-bottom: 24px;
@@ -77,19 +77,10 @@ main {
   margin-top: 0;
   color: #f1ecec;
 }
-
-.grade{
-  background-color: #472525;
-  border-radius: 8px;
-  padding: 16px 24px;
-  margin-bottom: 24px;
-}
-
 /*Titu*/
 .titu{
-  background-color: #922828;
+  background-color: #E53935;
   border-radius: 8px;
   padding: 16px 24px;
   margin-bottom: 24px;
 }
-
