@@ -1,6 +1,6 @@
  # Desenvolvimento_Interfaces
  
-  Para essa atividade foi utlizada a IA: Claude. Oque foi feito com a IA?
+  Para essa atividade foi utlizada a IA: Claude. O que foi feito com a IA?
 
  ----
 
